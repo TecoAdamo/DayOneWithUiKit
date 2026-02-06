@@ -4,20 +4,20 @@ A study project built with UIKit, focused on practicing UI fundamentals, navigat
 The goal is to evolve the app incrementally, starting from the basics and adding new features over time.
 
 🚀 Purpose
-Practice UIKit from scratch
-Build interfaces programmatically
-Understand screen flows and user interaction
-Track learning progress day by day
+- Practice UIKit from scratch
+- Build interfaces programmatically
+- Understand screen flows and user interaction
+- Track learning progress day by day
 
 🧩 Current State
-Initial screen
-Text input
-Action button
+- Initial interactive screen  
+- User input is displayed on the screen upon button tap  
+- New entries are appended, creating a running list of user input  
 
 🛠️ Technologies
-Swift
-UIKit
-Xcode
+- Swift
+- UIKit
+- Xcode
 
 📌 Next Steps
  Input validation
